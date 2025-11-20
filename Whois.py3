@@ -20,5 +20,6 @@ while True:
         continue
 
     print (consultawhois.email)
-    print (consultawhois["email"])
+    # print (consultawhois["email"])
+
     print (consultawhois.text)
